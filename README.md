@@ -1,3 +1,13 @@
+# Paseeo Android App
+
+Download APK paseeo from Android Strore at:
+
+ ![alt](paseeo.png)
+
+https://play.google.com/store/apps/details?id=com.smscalendar
+
+## Install project 
+
 1. Clone project
 2. Cd into project
 3. $yarn install
