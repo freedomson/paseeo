@@ -2,7 +2,7 @@
 
 Download APK paseeo from Android Strore at:
 
- ![alt](paseeo.png)
+ ![alt](paseeo.png =250x)
 
 https://play.google.com/store/apps/details?id=com.smscalendar
 
