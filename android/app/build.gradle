@@ -172,3 +172,12 @@ task copyDownloadableDepsToLibs(type: Copy) {
     from configurations.compile
     into 'libs'
 }
+// https://github.com/zo0r/react-native-push-notification/pull/1092#issuecomment-503657080
+configurations.all {
+    resolutionStrategy {
+        force 'com.google.android.gms:play-services-gcm:16.1.0'
+        force 'com.google.android.gms:play-services-base:16.1.0'
+        force 'com.google.firebase:firebase-core:16.0.6'
+        force 'com.google.firebase:firebase-messaging:17.6.0'
+   }
+}

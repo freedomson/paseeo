@@ -1,2 +1,7 @@
 node_modules
 .gradle
+android/.idea/
+android/app/app.iml
+android/app/build/
+android/local.properties
+android/paseeo.iml
