@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0",
-    "date-and-time": "^0.6.3",
+    "date-and-time": "^0.14.2",
     "immer": "^1.7.2",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
