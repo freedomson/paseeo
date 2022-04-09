@@ -15,7 +15,7 @@
     "date-and-time": "^0.6.3",
     "immer": "^1.7.2",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.7.0-alpha.2",
     "react-dom": "16.7.0-alpha.0",
     "react-native": "npm:@brunolemos/react-native",
